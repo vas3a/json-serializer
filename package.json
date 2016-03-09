@@ -1,0 +1,25 @@
+{
+  "name": "node-serializer",
+  "version": "0.0.1",
+  "description": "Serializer for node",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/asd/node-serializer.git"
+  },
+  "author": "Cristian Necula",
+  "license": "proprietary",
+  "homepage": "https://bitbucket.org/asd/node-serializer#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.4.4"
+  },
+  "dependencies": {
+  }
+}
